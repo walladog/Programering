@@ -1,0 +1,5 @@
+Ja Newton Raphson er ikke den bedste metode til approximationer, men et sted skal vi jo begynde :)
+
+https://www.youtube.com/watch?v=RrMptmNYkSw&ab_channel=LexClips
+
+se ca. 6:00 inde 

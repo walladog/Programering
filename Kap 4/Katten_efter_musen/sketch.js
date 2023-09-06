@@ -23,7 +23,7 @@ function preload() {
   yamete = loadSound("Yamete-kudasai-2.mp3");
 }
 
-//i draw funktionen tegnerjeg baggrunden, katten, musen jeg får katten til at bevæge sig efter musen og jeg stater mine 2 funtioner jeg har lavet neden under til at ske
+//i draw funktionen tegner jeg baggrunden, katten, musen jeg får katten til at bevæge sig efter musen og jeg stater mine 2 funtioner jeg har lavet neden under til at ske
 function draw() {
   background(137, 207, 240);
   image(img, x, y, d, d);
